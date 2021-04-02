@@ -1,4 +1,4 @@
-# nats-streaming-sample-app
+# nats-streaming-sample-app (node-nats-streaming)
 
 ### Prerequisites:
  Kubernetes (kubectle)\
